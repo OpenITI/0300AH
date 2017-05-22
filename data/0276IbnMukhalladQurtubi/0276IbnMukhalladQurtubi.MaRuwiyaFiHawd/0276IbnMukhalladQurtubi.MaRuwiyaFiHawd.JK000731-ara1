@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_000731
-#NewRec# 000.BookURI	:: #0578.IbnBashkuwal.MaRuwiya
-#NewRec# 010.AuthorAKA	:: ابن بشكوال
-#NewRec# 010.AuthorNAME	:: بقي بن مخلد القرطبي
-#NewRec# 011.AuthorBORN	:: 201
-#NewRec# 011.AuthorDIED	:: 276
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: ما روي الحوض والكوثر
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: الأجزاء الموضوعية :: كتب الأخلاق والسلوك :: كتب العقائد المسندة :: مواضيع مسندة في الأخلاق والتزكية
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: الذيل على جزء بقي بن مخلد
-#NewRec# 030.LibURI	:: JK_000731
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: عبد القادر محمد عطا صوفي
-#NewRec# 041.EdNUMBER	:: الأولى
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: مكتبة العلوم والحكم
-#NewRec# 044.EdPLACE	:: المدينة المنورة
-#NewRec# 045.EdYEAR	:: 1413
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_000731
+#META# 000.BookURI	:: #0578.IbnBashkuwal.MaRuwiya
+#META# 010.AuthorAKA	:: ابن بشكوال
+#META# 010.AuthorNAME	:: بقي بن مخلد القرطبي
+#META# 011.AuthorBORN	:: 201
+#META# 011.AuthorDIED	:: 276
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: ما روي الحوض والكوثر
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: الأجزاء الموضوعية :: كتب الأخلاق والسلوك :: كتب العقائد المسندة :: مواضيع مسندة في الأخلاق والتزكية
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: الذيل على جزء بقي بن مخلد
+#META# 030.LibURI	:: JK_000731
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: عبد القادر محمد عطا صوفي
+#META# 041.EdNUMBER	:: الأولى
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: مكتبة العلوم والحكم
+#META# 044.EdPLACE	:: المدينة المنورة
+#META# 045.EdYEAR	:: 1413
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 

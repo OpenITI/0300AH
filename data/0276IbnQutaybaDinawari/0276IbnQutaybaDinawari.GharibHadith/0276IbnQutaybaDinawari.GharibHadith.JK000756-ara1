@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_000756
-#NewRec# 000.BookURI	:: #0276.IbnQutaybaDinawari.GharibHadith
-#NewRec# 010.AuthorAKA	:: ابن قتيبة
-#NewRec# 010.AuthorNAME	:: عبد الله بن مسلم بن قتيبة الدينوري أبو محمد
-#NewRec# 011.AuthorBORN	:: 213
-#NewRec# 011.AuthorDIED	:: 276
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: غريب الحديث
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: الغريب والمعاجم :: المعاجم والغريب :: غريب الحديث :: كتب المعاجم والغريب والمصطلحات
-#NewRec# 022.BookVOLS	:: 3
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: غريب الحديث لابن قتيبة
-#NewRec# 030.LibURI	:: JK_000756
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: د. عبد الله الجبوري
-#NewRec# 041.EdNUMBER	:: الأولى
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: مطبعة العاني
-#NewRec# 044.EdPLACE	:: بغداد
-#NewRec# 045.EdYEAR	:: 1397
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_000756
+#META# 000.BookURI	:: #0276.IbnQutaybaDinawari.GharibHadith
+#META# 010.AuthorAKA	:: ابن قتيبة
+#META# 010.AuthorNAME	:: عبد الله بن مسلم بن قتيبة الدينوري أبو محمد
+#META# 011.AuthorBORN	:: 213
+#META# 011.AuthorDIED	:: 276
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: غريب الحديث
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: الغريب والمعاجم :: المعاجم والغريب :: غريب الحديث :: كتب المعاجم والغريب والمصطلحات
+#META# 022.BookVOLS	:: 3
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: غريب الحديث لابن قتيبة
+#META# 030.LibURI	:: JK_000756
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: د. عبد الله الجبوري
+#META# 041.EdNUMBER	:: الأولى
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: مطبعة العاني
+#META# 044.EdPLACE	:: بغداد
+#META# 045.EdYEAR	:: 1397
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 

@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_000630
-#NewRec# 000.BookURI	:: #0287.IbnAbiCasimDahhak.Sunna
-#NewRec# 010.AuthorAKA	:: ابن أبي عاصم
-#NewRec# 010.AuthorNAME	:: عمرو بن أبي عاصم الضحاك الشيباني
-#NewRec# 011.AuthorBORN	:: 0
-#NewRec# 011.AuthorDIED	:: 287
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: السنة
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: الأجزاء الموضوعية :: كتب العقائد المسندة :: كتب العقائد والملل
-#NewRec# 022.BookVOLS	:: 2
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: السنة لابن أبي عاصم
-#NewRec# 030.LibURI	:: JK_000630
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: محمد ناصر الدين الألباني
-#NewRec# 041.EdNUMBER	:: الأولى
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: المكتب الإسلامي
-#NewRec# 044.EdPLACE	:: بيروت
-#NewRec# 045.EdYEAR	:: 1400
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_000630
+#META# 000.BookURI	:: #0287.IbnAbiCasimDahhak.Sunna
+#META# 010.AuthorAKA	:: ابن أبي عاصم
+#META# 010.AuthorNAME	:: عمرو بن أبي عاصم الضحاك الشيباني
+#META# 011.AuthorBORN	:: 0
+#META# 011.AuthorDIED	:: 287
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: السنة
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: الأجزاء الموضوعية :: كتب العقائد المسندة :: كتب العقائد والملل
+#META# 022.BookVOLS	:: 2
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: السنة لابن أبي عاصم
+#META# 030.LibURI	:: JK_000630
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: محمد ناصر الدين الألباني
+#META# 041.EdNUMBER	:: الأولى
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: المكتب الإسلامي
+#META# 044.EdPLACE	:: بيروت
+#META# 045.EdYEAR	:: 1400
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
