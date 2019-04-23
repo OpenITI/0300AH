@@ -21,10 +21,10 @@
 #META# 031.LibURLFILE	:: NODATA
 #META# 031.LibURLextra	:: NODATA
 #META# 040.EdALL	:: NODATA
-#META# 040.EdEDITOR	:: NODATA
+#META# 040.EdEDITOR	:: هلال ناجي
 #META# 041.EdNUMBER	:: NODATA
 #META# 041.EdNumber	:: NODATA
-#META# 043.EdPUBLISHER	:: NODATA
+#META# 043.EdPUBLISHER	:: دار الشؤون الثقافية العامة
 #META# 044.EdPLACE	:: NODATA
 #META# 045.EdYEAR	:: NODATA
 #META# 049.EdISBN	:: NODATA
@@ -38,7 +38,7 @@
 
 #META#Header#End#
 # PageV00P000
-### | نص الرسالة
+# نص الرسالة
 # أبو محمد عبد الله بن مسلم بن قتيبة الدينوري في ذكر الخط والقلم.
 # قال أبو محمد المذكور: يسمى القلم الذي يكتب به قلما لأنه قلم وقطع ومنه
 ~~قلمت أظفاري ومنه قيل قلامة الظفر لما يقطع منه.
