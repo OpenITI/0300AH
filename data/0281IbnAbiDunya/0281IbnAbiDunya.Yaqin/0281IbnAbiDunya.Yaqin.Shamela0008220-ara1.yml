@@ -4,6 +4,12 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/235968565
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=670
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- The page numbers at the top of the pages are entered into the text. 2- From number 20 onwards, the numbers in the Editpro text are one less than those in the PDF; however, this is just a difference in pagination and the content is almost the same (I said “almost” because a few words are different in the whole of the Editpro text and that’s because I have used a different edition for collation (Editpro version was not found)).
+90#VERS#COMMENT##: 1- The page numbers at the top of the pages are
+    entered into the text. 2- From number 20 onwards, the numbers in the
+    Editpro text are one less than those in the PDF; however, this is just a
+    difference in pagination and the content is almost the same (I said
+    “almost” because a few words are different in the whole of the Editpro
+    text and that’s because I have used a different edition for collation
+    (Editpro version was not found)).
 90#VERS#DATE#####: 2019-09-28
 90#VERS#ISSUES###: PAGINATION

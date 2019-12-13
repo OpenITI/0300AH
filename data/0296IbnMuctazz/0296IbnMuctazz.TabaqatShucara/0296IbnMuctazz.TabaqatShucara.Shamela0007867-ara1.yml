@@ -4,6 +4,15 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/949446778
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7618
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- These pages are omitted in the Editpro version: 418, 419, 422, 423, 426, 427,430, 431. I had a quick glance at the text and I found some little inaccuracies: in page 160, verse number 7 and in page 334, the first three verses are omitted in Editpro version. Moreover, from page 429 onwards, the puny lines that show the page numbers and the line numbers of the original book are omitted. 2- At the end of the book, there are three sections that have been added by the editor. I didn’t use the Editorial Tag for these parts as, in my view, they must be considered parts of the original text; nevertheless, this depends on the aim of the researcher who is supposed to use the text.
+90#VERS#COMMENT##: 1- These pages are omitted in the Editpro version:
+    418, 419, 422, 423, 426, 427,430, 431. I had a quick glance at the text
+    and I found some little inaccuracies: in page 160, verse number 7 and in
+    page 334, the first three verses are omitted in Editpro version.
+    Moreover, from page 429 onwards, the puny lines that show the page
+    numbers and the line numbers of the original book are omitted. 2- At the
+    end of the book, there are three sections that have been added by the
+    editor. I didn’t use the Editorial Tag for these parts as, in my view,
+    they must be considered parts of the original text; nevertheless, this
+    depends on the aim of the researcher who is supposed to use the text.
 90#VERS#DATE#####: 2019-08-27
 90#VERS#ISSUES###: MISSING_PARTS
