@@ -26,6 +26,7 @@
 
 # `Working copies of` that EditPad Pro creates
 Working\ Copy\ of *
+.DS_Store
 
 # Python scripts for prepping data
 __pycache__/
