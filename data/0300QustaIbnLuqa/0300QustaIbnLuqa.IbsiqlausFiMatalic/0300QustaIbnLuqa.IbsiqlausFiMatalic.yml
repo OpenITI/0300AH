@@ -1,7 +1,8 @@
-00#BOOK#URI######: 0300QustaIbnLuqa.FulutarkhusFiAraTabiciyya
+00#BOOK#URI######: 0300QustaIbnLuqa.IbsiqlausFiMatalic
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb Fulūṭārkhus fī al-arāʾ al-ṭabīʿiyyaŧ al-latī taqūl bihā al-ḥukamāʾ
-10#BOOK#TITLEB#AR: 
+10#BOOK#TITLEA#AR: Kitāb Fulūṭārkhus fī al-arāʾ al-ṭabīʿiyyaŧ al-latī
+    taqūl bihā al-ḥukamāʾ
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: [Pseudo-Plutarchus, Placita philosophorum] (TRANSL)
@@ -13,5 +14,5 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: There are two early Arabic translations of the work; 
+90#BOOK#COMMENT##: There are two early Arabic translations of the work;
     This is the one by Yaḥyā b. ʿAdī, the other is by Ibn Zurʿa.

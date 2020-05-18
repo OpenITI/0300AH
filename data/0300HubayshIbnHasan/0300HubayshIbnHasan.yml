@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0300HubayshIbnHasan
 10#AUTH#ISM####AR: Ḥubaysh
 10#AUTH#KUNYA##AR: Abū al-Khayr
-10#AUTH#LAQAB##AR: 
+10#AUTH#LAQAB##AR:
 10#AUTH#NASAB##AR: b. al-Hasan b. al-Aʿsam
 10#AUTH#NISBA##AR: al-Dimashqī
 10#AUTH#SHUHRA#AR: Ḥubaysh b. al-Ḥasan
@@ -14,5 +14,5 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: Nephew of Ḥunayn b. Isḥāq,
-    see EI3 s.v. Ḥubaysh b. al-Ḥasan al-Dimashqī.
+90#AUTH#COMMENT##: Nephew of Ḥunayn b. Isḥāq, see EI3 s.v. Ḥubaysh b.
+    al-Ḥasan al-Dimashqī.

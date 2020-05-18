@@ -1,4 +1,4 @@
-00#BOOK#URI######: 0259HunaynIbnIshaq.MaqulatLiAristutalis
+00#BOOK#URI######: 0298IshaqIbnHunayn.MaqulatLiAristutalis
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Kitāb al-Maqūlāt
 10#BOOK#TITLEB#AR: Qāṭīghūriyā
@@ -6,7 +6,8 @@
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: [Ḥunayn b. Isḥāq, Syriac translation of Aristotle's Categoriae] (TRANSL)
+40#BOOK#FOLLOWED#: [Ḥunayn b. Isḥāq, Syriac translation of Aristotle's
+    Categoriae] (TRANSL)
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink

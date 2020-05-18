@@ -1,12 +1,12 @@
 00#BOOK#URI######: 0298IshaqIbnHunayn.BuruqlisFiQidamCalam
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Hujaj Buruqlis fī qidam al-ʿālam
-10#BOOK#TITLEB#AR: 
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: [Proclus Diadochus, De aeternitate mundi] 
-    > [Unknown translator?, Syriac translation of Proclus' De aeternitate mundi] (TRANSL)
-    > 0298IshaqIbnHunayn.BuruqlisFiQidamCalam (TRANSL)
+40#BOOK#ABRIDGED#: [Proclus Diadochus, De aeternitate mundi]  > [Unknown
+    translator?, Syriac translation of Proclus' De aeternitate mundi]
+    (TRANSL) > 0298IshaqIbnHunayn.BuruqlisFiQidamCalam (TRANSL)
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
