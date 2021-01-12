@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0281IbnAbiDunya.MaqtalCali
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: kitāb al-maqtal amīr al-muʾminīn ʿalī b. abī ṭālib ʿalayhi al-salām
+10#BOOK#TITLEB#AR: al-maqtal ʿalī b. abī ṭālib
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
