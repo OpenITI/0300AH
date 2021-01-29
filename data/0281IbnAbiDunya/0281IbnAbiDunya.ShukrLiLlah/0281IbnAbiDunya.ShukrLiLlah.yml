@@ -1,7 +1,9 @@
 00#BOOK#URI######: 0281IbnAbiDunya.ShukrLiLlah
+00#VERS#CLENGTH##: 45484
+00#VERS#LENGTH###: 12001
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: kitāb al-šukr li-llah
-10#BOOK#TITLEB#AR: 
+10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
