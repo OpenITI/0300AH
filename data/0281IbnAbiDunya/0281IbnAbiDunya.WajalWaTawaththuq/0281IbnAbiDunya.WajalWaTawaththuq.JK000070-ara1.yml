@@ -8,5 +8,6 @@
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: single pipes removed. the structure consists in
     paragraphs preceeded by one single hashtag and sometimes by a numeral.
+   NOTE OF THE REVIEWER (HRH): The text did not have any tag. I tagged the headers and PARATEXTs.
 90#VERS#DATE#####: 2019-07-22
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: RANDOM_CHARS
