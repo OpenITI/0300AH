@@ -8,5 +8,6 @@
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: numerals and folio numbers were tagged as paragraphs
     with one single hashtag. other first level headers were left untouched.
+   NOTE OF THE REVIEWER (HRH): A few untagged titles tagged. 2- PARATEXT added, and the first title shifted to after it to correspond with the PDF.
 90#VERS#DATE#####: 2019-07-23
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PAGINATION
