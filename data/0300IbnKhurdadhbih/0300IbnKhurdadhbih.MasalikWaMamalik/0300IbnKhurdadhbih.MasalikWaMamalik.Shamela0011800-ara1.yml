@@ -1,11 +1,11 @@
 00#VERS#CLENGTH##: 174505
 00#VERS#LENGTH###: 40295
 00#VERS#URI######: 0300IbnKhurdadhbih.MasalikWaMamalik.Shamela0011800-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771025182
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771025182
+80#VERS#LINKS####: https://archive.org/details/p.d.f4012
+90#VERS#ANNOTATOR: LeipzigTeam
 90#VERS#COMMENT##: the file needs verification;
+   NOTE OF THE REVIEWER (HRH): PageV01P266 was missing. I copied it from 003950 version. 2- I’m not one hundred percent sure about the levelling of the headers. A specialist who will read the text might decide to make some changes. 3- page 184 onwards is a part of 0337QudamaIbnJacfar.Kharaj. The editor’s introduction is in French and I don’t know why it is here. I raised an issue for separating it.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: HTML_TAGS
