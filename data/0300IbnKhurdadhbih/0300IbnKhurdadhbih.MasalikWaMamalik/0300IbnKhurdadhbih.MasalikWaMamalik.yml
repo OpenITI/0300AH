@@ -1,6 +1,6 @@
 00#BOOK#URI######: 0300IbnKhurdadhbih.MasalikWaMamalik
-10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: al-Masālik wa al-mamālik
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Kitāb al-Masālik wa-al-mamālik
 10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
@@ -13,7 +13,19 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: One of the earliest extant geographical texts.
+    The basic structure of the text is quite simple: after a short introduction,
+    the author divides his work into 5 main chapters: 
+    a chapter on the Sawād / al-ʿIrāq, the centre of the Sasanian empire,
+    followed by a chapter each on (the current situation in)
+    the four quarters of the Sasanian empire: al-Mashriq, al-Maghrib,
+    al-Jarbī (North) and al-Tayammun (South).
+    These are followed by a shorter chapter that contains various information
+    that did not fit easily in the previous chapters. 
+    Within the chapters, the structure is more complex.
+    The first chapter, on the Sawād, contains a list of its geographical 
+    units and the tax income derived from them.
+    The next four chapters are organized along routes from al-ʿIrāq
+    to the furthest parts of each quarter; once a route reaches a new 
+    region, its geographical units and tax income are listed,
+    sometimes along with other topics of interest.
