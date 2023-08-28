@@ -1,11 +1,36 @@
-00#VERS#CLENGTH##: 563462
-00#VERS#LENGTH###: 149031
-00#VERS#URI######: 0279IbnAbiKhaythama.TarikhKabir.Shamela0008477-ara1
-80#VERS#BASED####: http://www.worldcat.org/oclc/429171120
-80#VERS#COLLATED#: http://www.worldcat.org/oclc/429171120
-80#VERS#LINKS####: https://archive.org/details/waq60886
+00#VERS#CLENGTH##: 534164
+00#VERS#LENGTH###: 142616
+00#VERS#URI######: 0279IbnAbiKhaythama.TarikhKabir.Shamela0001440Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/84376181
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/84376181
+80#VERS#LINKS####: https://ia801301.us.archive.org/7/items/altarehkelkab
+    eer2/altarehkelkabeer.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: ATTENTION: This book needs a review by a specialist
+90#VERS#COMMENT##: Only two parts (al-sifr al-thānī and al-sifr al-thālith)
+    of this book are extant. They were originally in separate text files; 
+    (Shamela0001440 (sefer 2) and Shamela0008477 (sefer 3)).
+    PV joined them together into a single file.
+    Annotator HRH's notes on sefer 2:
+    The structure of the book is very arbitrary. The
+    author categorizes the names of the people who have quoted the words of
+    the prophet in alphabetical order; but after naming someone from a
+    specific tribe, he suddenly digresses to name other persons from that
+    tribe and then returns to the alphabetical order. I categorized these
+    digressions as sub-headers (mostly fourth-level header) and showed the
+    return to the alphabetical order by a blank header tag (so that they are
+    distinguishable). Moreover, the author names irrelevant names inside a
+    category that is supposed to belong to one specific name (for example,
+    the author mentions names like “أنسة”, “وإبراهيم”, … under the category
+    entitled “من روى عن النبي اسمه: أوس” (in page 75-76)) . I also separated
+    these names by a blank header so that they are distinguishable from the
+    main category. Besides, sometimes the author names someone out of
+    alphabetical order to add some explanation about him. I tagged such
+    names with an asterisk (i.e. ### $ *). The last part of the text
+    categorized some people according to brotherhood. I tagged these names
+    with an asterisk too (see my note on “السفر الثالث” about this kind of
+    names).
+    Annotator HRH's notes on sefer 3:
+    ATTENTION: This book needs a review by a specialist
     in Hadith literature. It is very difficult for tagging since the
     structure is complex without enough and coherent titles. I try to
     explain all issues here: 1- From page PageV01P085 to PageV01P139 the
@@ -46,5 +71,5 @@
     the main category and does the same thing for another important person.
     I showed the return to the main category by a blank header to make the
     next names distinguishable from the previous ones.
-90#VERS#DATE#####: 2019-10-16
-90#VERS#ISSUES###: PAGINATION
+90#VERS#DATE#####: 2019-10-14
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, INCOMPLETE_WORK
