@@ -4,8 +4,10 @@
 80#VERS#BASED####: NO_DATA_IN_METADATA
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/949510080
 80#VERS#LINKS####: http://archive.alsharekh.org/newPreview.aspx?PID=2281
-    147&ISSUEID=8422&AID=175129
+            147&ISSUEID=8422&AID=175129
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##:
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-09-21
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

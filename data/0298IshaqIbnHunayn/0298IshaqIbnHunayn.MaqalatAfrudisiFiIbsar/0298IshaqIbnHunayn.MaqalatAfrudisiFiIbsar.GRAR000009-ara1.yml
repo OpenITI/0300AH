@@ -5,10 +5,13 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+            use consistently)
 90#VERS#COMMENT##: Ed. Helmut Gätje (1971),  Studien zur Überlieferung
-    der aristotelischen Psychologie im Islam (Annales Universitatis
-    Saraviensis. Reihe: Philosophische Fakultät, 11). Heidelberg: Carl
-    Winter Universitätsverlag, 147-163.
+            der aristotelischen Psychologie im Islam (Annales Universitatis
+            Saraviensis. Reihe: Philosophische Fakultät, 11). Heidelberg: Carl
+            Winter Universitätsverlag, 147-163.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: , PRIMARY_VERSION, CLEANED_VERSION

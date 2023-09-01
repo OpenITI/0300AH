@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771216788
 80#VERS#LINKS####: https://ketabpedia.com/تحميل/كتاب-التهجد-وقيام-الليل/
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-09-29
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

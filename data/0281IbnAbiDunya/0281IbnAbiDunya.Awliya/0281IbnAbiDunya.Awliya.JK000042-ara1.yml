@@ -6,6 +6,9 @@
 80#VERS#LINKS####: http://saaid.net/book/20/14661.pdf
 90#VERS#ANNOTATOR: MEHDI SHOJAIE
 90#VERS#COMMENT##: line 343/page 25 ذل false ذلک. line 591/ page 36 اذ۱
-    false اذا. line 670/ page 39 قدخر false قدخرج.
+            false اذا. line 670/ page 39 قدخر false قدخرج.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-08-10
-90#VERS#ISSUES###: RANDOM_CHARS, MANY_TYPOS
+90#VERS#ISSUES###: RANDOM_CHARS, MANY_TYPOS, PRIMARY_VERSION, CLEANED_VERSION

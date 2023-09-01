@@ -4,8 +4,10 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/1103727759
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103727759
 80#VERS#LINKS####: https://www.noorlib.ir/view/fa/book/bookview/text/4409/1/258;
-    https://archive.org/details/elhilalymohamad_gmail_20170915_0404
+            https://archive.org/details/elhilalymohamad_gmail_20170915_0404
 90#VERS#ANNOTATOR: MEHDI SHOJAIE
-90#VERS#COMMENT##:
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-08-10
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

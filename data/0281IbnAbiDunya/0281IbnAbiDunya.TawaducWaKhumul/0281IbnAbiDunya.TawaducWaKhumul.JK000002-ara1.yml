@@ -6,6 +6,10 @@
 80#VERS#LINKS####: https://www.4shared.com/office/4pRHyA4r/__online.html
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Some page numbers appear a little before or after the
-    correct place.
+            correct place.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    WARNING: another version of this text may have more developed annotation!
 90#VERS#DATE#####: 2019-09-29
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://takw.in/files/sifat-alnaar.pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The vertical lines in the text (|) signify the end of
-    lines in the PDF. I didn’t delete these lines. [ $ ] is placed instead
-    of “صلی الله ...”.
+            lines in the PDF. I didn’t delete these lines. [ $ ] is placed instead
+            of “صلی الله ...”.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-09-29
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

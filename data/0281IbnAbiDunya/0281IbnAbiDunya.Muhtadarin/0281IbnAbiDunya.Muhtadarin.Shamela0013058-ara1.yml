@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://www.noor-book.com/كتاب-المحتضرين-ابن-أبي-الدنيا-pdf
 90#VERS#ANNOTATOR: Maroussia
 90#VERS#COMMENT##: numerals and folio numbers tagged as paragraph with
-    one single hashtag instead of three hashtags and a pipe.
+            one single hashtag instead of three hashtags and a pipe.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-26
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

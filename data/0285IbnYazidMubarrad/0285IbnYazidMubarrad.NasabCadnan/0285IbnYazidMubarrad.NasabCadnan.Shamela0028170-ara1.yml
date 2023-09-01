@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/olomnasb_ymail_20150920_1741
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: basmallah tagged as paragraph instead of first level header.
-   NOTE OF THE REVIEWER (HRH): The header tags were not titles in the PDF, or exclusive to the subject matter under discussion. I just kept two of them and removed three other ones. PARATEXT added.
+           NOTE OF THE REVIEWER (HRH): The header tags were not titles in the PDF, or exclusive to the subject matter under discussion. I just kept two of them and removed three other ones. PARATEXT added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-23
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/FP19519
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: Annotated by unknown annotator, validated by Gowaart
-    with almost no corrections.  Edition not found on Worldcat.
-    NOTE OF THE REVIEWER (HRH): All the headers were first-level. I changed a few
-    ones into second-level.
+            with almost no corrections.  Edition not found on Worldcat.
+            NOTE OF THE REVIEWER (HRH): All the headers were first-level. I changed a few
+            ones into second-level.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-07-25
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

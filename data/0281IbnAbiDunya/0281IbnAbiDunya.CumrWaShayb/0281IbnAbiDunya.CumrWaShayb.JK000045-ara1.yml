@@ -6,7 +6,10 @@
 80#VERS#LINKS####: http://waqfeya.com/book.php?bid=4045
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Very small discrepancies between the text and the
-    PDF: number 14 (page 53) and number 43 (page 62) are omitted in the
-    text. Some strange signs instead of footnote numbers in page 75.
+            PDF: number 14 (page 53) and number 43 (page 62) are omitted in the
+            text. Some strange signs instead of footnote numbers in page 75.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-08-13
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

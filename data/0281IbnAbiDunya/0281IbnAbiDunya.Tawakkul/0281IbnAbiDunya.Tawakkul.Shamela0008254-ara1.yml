@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://www.noor-book.com/كتاب-موسوعة-رسائل-ابن-أبي-الدنيا-ط-الثقافية-pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The page numbers at the top of the pages are
-    entered into the text. 2- There is a note of the scribe at the beginning
-    of the text. I tagged it as EDITORIAL (since it is not written by the
-    original author). SPL: Updated 'editorial' to 'paratext' label.
+            entered into the text. 2- There is a note of the scribe at the beginning
+            of the text. I tagged it as EDITORIAL (since it is not written by the
+            original author). SPL: Updated 'editorial' to 'paratext' label.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-09-30
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

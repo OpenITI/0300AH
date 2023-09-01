@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://www.noor-book.com/en/ebook-موسوعه-رسايل-ابن-ابي-الدنيا-الهواتف--pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: NO MAJOR ISSUES
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-08-13
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
