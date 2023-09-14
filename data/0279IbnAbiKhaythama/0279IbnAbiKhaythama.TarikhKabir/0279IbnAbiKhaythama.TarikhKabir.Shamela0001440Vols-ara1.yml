@@ -1,38 +1,45 @@
-00#VERS#CLENGTH##: 
-00#VERS#LENGTH###: 
+00#VERS#CLENGTH##: 1097888
+00#VERS#LENGTH###: 291658
 00#VERS#URI######: 0279IbnAbiKhaythama.TarikhKabir.Shamela0001440Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/84376181
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/84376181
-80#VERS#LINKS####: 
-    https://ia801301.us.archive.org/7/items/altarehkelkabeer2/altarehkelkabeer.pdf, 
+80#VERS#LINKS####:
+    https://ia801301.us.archive.org/7/items/altarehkelkabeer2/altarehkelkabeer.pdf,
     https://ia800307.us.archive.org/34/items/waq60886/01_60886.pdf,
     https://ia600307.us.archive.org/34/items/waq60886/02_60887.pdf,
     https://ia800307.us.archive.org/34/items/waq60886/03_60888.pdf,
     https://ia600307.us.archive.org/34/items/waq60886/04_60889.pdf
 90#VERS#ANNOTATOR: HRH, PV
 90#VERS#COMMENT##: Only two parts (al-sifr al-thānī and al-sifr al-thālith)
-    of this book are extant, each in a separate manuscript 
-    and with a different riwāya (see intro to sifr 1, p. 13). 
-    They were originally in separate text files 
+    of this book are extant, each in a separate manuscript
+    and with a different riwāya (see intro to sifr 1, p. 13).
+    They were originally in separate text files
     (Shamela0001440 (sifr 2) and Shamela0008477 (sifr 3)).
     PV joined them together into a single file.
     The original text files only contained PageV00P000 page numbers;
-    HRH and PV marked page numbers for the beginning of each volume and some important sections
+    HRH and PV marked page numbers for the beginning of each volume and some
+    important sections
     (PageV2xPxxx for al-sifr al-thānī, and PageV3xPxxx for al-sifr al-thālith)
-    The folio numbers in the manuscripts were indicated 
+    The folio numbers in the manuscripts were indicated
     between square brackets: e.g., `[ق/1/أ]` (folio 1, recto).
     PV added mARkdown-style folio numbers: FolioVxxPxxxA (A for recto, B for verso)
-    Manuscripts used by the editors: 
-    * al-sifr al-thānī: one manuscript: in al-Khizāna al-ʿāmma (Rabat, Morocco): FolioV21Pxxx
+    Manuscripts used by the editors:
+    * al-sifr al-thānī: one manuscript: in al-Khizāna al-ʿāmma (Rabat, Morocco):
+    FolioV21Pxxx
     * al-sifr al-thālith: two manuscripts:
-        - in Khizānat al-Qarāwiyyīn (Fes, Morocco): contains ajzāʾ 5-9 (the latter only partially): FolioV31Pxxx
-        - in al-Maktaba al-Maḥmūdiyya (Medina): contains parts of ajzāʾ 49 and 50: FolioV32Pxxx
-    The editor of al-sifr al-thānī notes that one page is probably missing from the start 
-    of the manuscript (intro, p. 13-14; PV indicated this in the text using `[...]`); 
-    the editor also moved the misplaced pages [ق/131/أ-ب] to their proper place 
+    - in Khizānat al-Qarāwiyyīn (Fes, Morocco): contains ajzāʾ 5-9 (the latter only
+    partially): FolioV31Pxxx
+    - in al-Maktaba al-Maḥmūdiyya (Medina): contains parts of ajzāʾ 49 and 50:
+    FolioV32Pxxx
+    The editor of al-sifr al-thānī notes that one page is probably missing from the
+    start
+    of the manuscript (intro, p. 13-14; PV indicated this in the text using
+    `[...]`);
+    the editor also moved the misplaced pages [ق/131/أ-ب] to their proper place
     (after [ق/111/ب]).
     For other anomalies in the page numbering, see intro p. 14-15.
-    The editor added some titles between square brackets that were not in the manuscript.
+    The editor added some titles between square brackets that were not in the
+    manuscript.
     The manuscript is divided into ajzāʾ; the editor considers these not to be
     part of the original plan of Ibn Abī Khaythama, so they are marked here as
     paratext. PV added a tag `###JUZx###` at the beginning of each juzʾ.
@@ -40,16 +47,17 @@
     numbering of the paragraphs and section headers; fixed an issue
     with missing last characters before the end of pages; and made
     slight tweaks to HRH's excellent header tags.
-    The central section of the first part of al-sifr al-thānī is a list of "aṣḥāb" of the Prophet;
+    The central section of the first part of al-sifr al-thānī is a list of "aṣḥāb"
+    of the Prophet;
     this list is mostly organized alphabetically, on the ism of the ṣāḥib.
-    Often used names are grouped under a subheading. 
+    Often used names are grouped under a subheading.
     Whenever a ṣāḥib from an important tribal group is mentioned
     (or the ism is the name of a tribal group),
     other aṣḥāb from that tribal group are listed immediately below that.
     These tribal sections are tagged as subsections of the relevant ism section.
     The remaining part of al-sifr al-thānī consists of lists of transmitters,
     grouped by various parameters (tribes, women, disabilities, ...).
-    Al-sifr al-thālith is organized mostly on a geographical/chronological basis. 
+    Al-sifr al-thālith is organized mostly on a geographical/chronological basis.
     Only the parts on Mecca, Medina, Kūfa, N Iraq and Ifrīqiyā are (partly) extant.
     Annotator HRH's notes on al-sifr al-thānī:
     The structure of the book is very arbitrary. The
@@ -113,4 +121,5 @@
     I showed the return to the main category by a blank header to make the
     next names distinguishable from the previous ones.
 90#VERS#DATE#####: 2019-10-14
-90#VERS#ISSUES###: PAGINATION, INCOMPLETE_WORK, CLEANED_VERSION, PRIMARY_VERSION, PARATEXT
+90#VERS#ISSUES###: PAGINATION, INCOMPLETE_WORK, CLEANED_VERSION,
+    PRIMARY_VERSION, PARATEXT

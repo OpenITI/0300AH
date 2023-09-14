@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 1259825
-00#VERS#LENGTH###: 327427
+00#VERS#CLENGTH##: 1205439
+00#VERS#LENGTH###: 314610
 00#VERS#URI######: 0277IbnSufyanFasawi.MacrifaWaTarikh.Shamela0012403-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/476996420
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771084521
@@ -22,6 +22,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0277IbnSufyanFasawi/0277IbnSufyanFasawi.MacrifaWaTarikh/0277IbnSufyanFasawi.MacrifaWaTarikh.Shamela0012403-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-
+    clean/data/0277IbnSufyanFasawi/0277IbnSufyanFasawi.MacrifaWaTarikh/0277IbnSufyanFasawi.MacrifaWaTarikh.Shamela0012403-ara1.completed
 90#VERS#DATE#####: 2019-10-19
-90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 22533
-00#VERS#LENGTH###: 5818
+00#VERS#CLENGTH##: 21654
+00#VERS#LENGTH###: 5612
 00#VERS#URI######: 0277MuhammadHunayni.MusnadAnasIbnMalik.ShamAY0033698-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
@@ -10,6 +10,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0277MuhammadHunayni/0277MuhammadHunayni.MusnadAnasIbnMalik/0277MuhammadHunayni.MusnadAnasIbnMalik.ShamAY0033698-ara1
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-
+    clean/data/0277MuhammadHunayni/0277MuhammadHunayni.MusnadAnasIbnMalik/0277MuhammadHunayni.MusnadAnasIbnMalik.ShamAY0033698-ara1
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

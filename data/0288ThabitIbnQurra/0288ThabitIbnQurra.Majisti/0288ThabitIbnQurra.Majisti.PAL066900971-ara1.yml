@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 210102
-00#VERS#LENGTH###: 56443
+00#VERS#CLENGTH##: 201132
+00#VERS#LENGTH###: 53804
 00#VERS#URI######: 0288ThabitIbnQurra.Majisti.PAL066900971-ara1
 80#VERS#BASED####: https://ptolemaeus.badw.de/work/201
 80#VERS#COLLATED#: https://ptolemaeus.badw.de/work/201
@@ -29,6 +29,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0288ThabitIbnQurra/0288ThabitIbnQurra.Majisti/0288ThabitIbnQurra.Majisti.PAL066900971-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-
+    clean/data/0288ThabitIbnQurra/0288ThabitIbnQurra.Majisti/0288ThabitIbnQurra.Majisti.PAL066900971-ara1.completed
 90#VERS#DATE#####: 2020-12-02
 90#VERS#ISSUES###: IMAGES, TABLES, PRIMARY_VERSION, CLEANED_VERSION
