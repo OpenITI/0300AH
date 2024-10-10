@@ -11,4 +11,4 @@
     Transcription model used: models/gen2-print-n7m5-union-ft_best.mlmodel
     Average transcription confidence: 0.9381161345651643
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: UNCORRECTED_OCR
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
