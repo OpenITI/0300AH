@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -15,7 +16,7 @@
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: The corpus currently contains 3 different editions of the text:
     * ara1: ed. Aḥmad Muḥammad Shākir (vols. 1-2), Muḥammad Fuʾād ʿAbd al-Bāqī (vol. 3),
-                Ibrāhīm ʿAṭawa ʿAwaḍ (vols. 4-5), 
-                Cairo (Maṭbaʿat Muṣṭafá al-Bābī al-Ḥalabī)1937-1965.
+    Ibrāhīm ʿAṭawa ʿAwaḍ (vols. 4-5),
+    Cairo (Maṭbaʿat Muṣṭafá al-Bābī al-Ḥalabī)1937-1965.
     * ara2: ed. Bashār ʿAwād Maʿrūf, Beirut (Dār al-Gharb al-Islāmī) 1996
     * ara3: ed. ʿAbd al-Wahhāb ʿAbd al-Laṭīf, 1403/1983

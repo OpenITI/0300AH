@@ -1,6 +1,6 @@
 00#BOOK#URI######: 0300Anonymous.RisalataHashimiWaKindi
 10#BOOK#GENRES###: CHRISTIANITY
-10#BOOK#TITLEA#AR: Risālaŧ ʿAbd Allāh b. Ismāʿīl al-Hāšimī ilá ʿAbd 
+10#BOOK#TITLEA#AR: Risālaŧ ʿAbd Allāh b. Ismāʿīl al-Hāšimī ilá ʿAbd
     al-Masīḥ b. Isḥāq al-Kindī yadʿūhu bihā ilá al-islām
     wa-risālaŧ al-Kindī ilá al-Hāšimī yaruddu bihā ʿalayhi
     wa-yadʿūhu ilá al-naṣrāniyyaŧ
@@ -11,6 +11,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -18,7 +19,7 @@
     https://www.academia.edu/36443580/The_Apology_of_Al_Kindi
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: Christian polemical text, posing as an exchange of
-    letters between a Christian and a Muslim. 
+    letters between a Christian and a Muslim.
     The author and date of writing are unknown,
     but the text is referred to by al-Bīrūnī in his al-Āthār al-Bāqiya.
     Van Koningsveld

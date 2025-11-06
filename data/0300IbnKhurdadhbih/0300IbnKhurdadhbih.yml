@@ -14,5 +14,6 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q380004
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Ḳāsim ʿUbayd Allāh b. ʿAbd Allāh (var. Aḥmad ), is one of the earliest geographical writers in Arabic whose writings have survived more or less in their original form.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3257

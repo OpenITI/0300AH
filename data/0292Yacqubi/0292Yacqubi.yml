@@ -9,10 +9,11 @@
 20#AUTH#DIED#####: Misr_RE
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: Hind_RE, Misr_RE, Maghrib_RE
-30#AUTH#BORN###AH:
+30#AUTH#BORN###AH: 
 30#AUTH#DIED###AH: 0292-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293689
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Abbās Aḥmad b. Abī Yaʿḳūb b. D̲j̲aʿfar b. Wahb
     b. Wāḍiḥ was born in Bag̲h̲dād in the 3rd/9th century. Trained as a member of

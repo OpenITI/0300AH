@@ -5,10 +5,11 @@
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 0001Ptolemy.Almagest (TRANSL); 0298IshaqIbnHunay (TRANSL.tarjama); 0288ThabitIbnQurra (CORR.tashih)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: The introduction states that the book was translated (tarjamahu)
-   by Ḥunayn b. Isḥāq and corrected (ṣaḥḥaḥahu) by Thābit.
+    by Ḥunayn b. Isḥāq and corrected (ṣaḥḥaḥahu) by Thābit.

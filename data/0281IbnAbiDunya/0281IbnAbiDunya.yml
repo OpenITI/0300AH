@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0281-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q6532706
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu Bakr ʿAbd Allāh b. Muḥammad b. ʿUbayd b. Sufyān al-Kuras̲h̲ī al-Bag̲h̲dādī , Arabic writer, born in 208/823 in Bag̲h̲dād and died there in 281/894": https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/ibn-abi-l-dunya-SIM_3046?s.num=0&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-2&s.q=abi+dunya

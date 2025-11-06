@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0287IbnAbiCasim
 10#AUTH#ISM####AR: Aḥmad
-10#AUTH#KUNYA##AR:
-10#AUTH#LAQAB##AR:
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. ʿAmr*w b. al-Ḍaḥḥāk b. Ma_hlad b. al-Ḍaḥḥāk b.
     Muslim b. al-Ḍaḥḥāk
 10#AUTH#NISBA##AR: al-^Saybānī
@@ -14,6 +14,7 @@
 30#AUTH#DIED###AH: 0287-RA2-05
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q5984157
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: His date of birth and death are given by al-Dhahabī.
     His shuhra, according to al-Dhahabī is Ibn Abī ʿĀṣim. (see, introduction

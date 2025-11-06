@@ -15,5 +15,6 @@
 30#AUTH#DIED###AH: 0279-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293528
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/al-baladhuri-COM_0094?s.num=0&s.rows=20&s.mode=DEFAULT&s.f.s2_parent=encyclopaedia-of-islam-2&s.start=0&s.q=baladhuri; Iranica: https://iranicaonline.org/articles/baladori-abul-hasan

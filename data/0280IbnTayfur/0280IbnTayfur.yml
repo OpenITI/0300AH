@@ -1,6 +1,6 @@
 00#AUTH#URI######: 0280IbnTayfur
 10#AUTH#ISM####AR: Aḥmad
-10#AUTH#KUNYA##AR: Abū al-Faḍl    
+10#AUTH#KUNYA##AR: Abū al-Faḍl
 10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Abī Ṭāhir
 10#AUTH#NISBA##AR: al-Marwḏī al-Kātib
@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0280-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q5984161
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Faḍl Aḥmad , Bag̲h̲dādī littérateur and historian. Born in 204/819-20 into a family of Persian origin": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3056
